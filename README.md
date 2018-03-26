@@ -1,3 +1,4 @@
 # groundcontrol
-padrÃO
+padrão
 Agora vai!
+oi
